@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=duibu&theme=gruvbox-duo&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
+
+这个人很懒,除了一堆垃圾代码什么也没有留下！
+This person is very lazy, leaving nothing but a pile of junk code!
