@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=duibu&theme=cobalt&card_width=595)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=duibu&theme=buefy&date_format=%5BY.%5Dn.j&card_width=625)](https://git.io/streak-stats)
 
 </br>
 </br>
