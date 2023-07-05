@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 
 
+
+
+
+
 这个人很懒,除了一堆垃圾代码什么也没有留下！
 
 This person is very lazy, leaving nothing but a pile of junk code!
