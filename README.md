@@ -2,7 +2,11 @@
 </br>
 </br>
 
-<center>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&width=565&height=60&lines=console.log('Hello+World!'))](https://git.io/typing-svg)</center>
+<center> 
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&width=565&height=60&lines=console.log('Hello+World!'))](https://git.io/typing-svg) 
+  
+</center>
 <!--
 **duibu/duibu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +21,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<center>[![GitHub Streak](https://streak-stats.demolab.com?user=duibu&theme=tokyonight-duo&date_format=%5BY.%5Dn.j&card_width=545)](https://git.io/streak-stats)</center>
+<center>
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=duibu&theme=tokyonight-duo&date_format=%5BY.%5Dn.j&card_width=545)](https://git.io/streak-stats)
+</center>
 
 </br>
 </br>
