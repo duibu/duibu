@@ -2,11 +2,10 @@
 </br>
 </br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&width=565&height=60&lines=console.log('Hello+World!'))](https://git.io/typing-svg) 
 
 <!--
 **duibu/duibu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&width=565&height=60&lines=console.log('Hello+World!'))](https://git.io/typing-svg) 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
