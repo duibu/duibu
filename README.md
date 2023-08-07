@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=duibu&theme=tokyonight-duo&date_format=%5BY.%5Dn.j&card_width=545)](https://git.io/streak-stats)
-
+-->
 </br>
 </br>
 </br>
